@@ -46,7 +46,7 @@ A comprehensive collection of projects covering **Government Data Pipelines**, *
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/Subodh3213G/Notebook.git
     ```
 2.  **Install Requirements:**
     ```bash
@@ -65,3 +65,5 @@ A comprehensive collection of projects covering **Government Data Pipelines**, *
 ---
 
 *Note: This portfolio is a reflection of data-driven decision-making. By using facts and statistical models, we can replace intuition with high-confidence strategic planning.*
+
+Author: Subodh Yadav
